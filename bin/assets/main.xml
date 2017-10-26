@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="main.png">
+	<!-- Created with Adobe Flash Professional version 14.2.0.20 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="bigButton0000" x="0" y="1378" width="172" height="53" pivotX="2.45" pivotY="1"/>
+	<SubTexture name="castle0000" x="0" y="896" width="317" height="353" pivotX="0" pivotY="0"/>
+	<SubTexture name="cheast0000" x="960" y="0" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="cloud_big0000" x="193" y="1249" width="115" height="83" pivotX="0" pivotY="0"/>
+	<SubTexture name="cloud_smal0000" x="193" y="1332" width="57" height="42" pivotX="0" pivotY="0"/>
+	<SubTexture name="coin10000" x="289" y="1402" width="48" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="coin20000" x="960" y="98" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="coin30000" x="960" y="147" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="coin40000" x="960" y="196" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="dialog_window0000" x="317" y="896" width="440" height="249" pivotX="5" pivotY="5"/>
+	<SubTexture name="enemy1_die0000" x="193" y="1374" width="48" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy1_walk10000" x="960" y="245" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy1_walk20000" x="250" y="1332" width="48" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy2_die0000" x="960" y="588" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy2_walk10000" x="973" y="1251" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy2_walk20000" x="960" y="784" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy3_die0000" x="973" y="1300" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy3_walk10000" x="960" y="833" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy3_walk20000" x="960" y="539" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy4_walk10000" x="960" y="637" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy4_walk20000" x="960" y="686" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="farMount_10000" x="0" y="1249" width="193" height="129" pivotX="0" pivotY="0"/>
+	<SubTexture name="farMount_20000" x="317" y="1145" width="288" height="257" pivotX="0" pivotY="0"/>
+	<SubTexture name="flag0000" x="870" y="1304" width="89" height="49" pivotX="1" pivotY="1"/>
+	<SubTexture name="flag_holder0000" x="775" y="1154" width="95" height="303" pivotX="0" pivotY="22"/>
+	<SubTexture name="gameBg0000" x="0" y="641" width="960" height="255" pivotX="0" pivotY="0"/>
+	<SubTexture name="grass_10000" x="337" y="1402" width="65" height="29" pivotX="0" pivotY="0"/>
+	<SubTexture name="grass_20000" x="870" y="1353" width="129" height="33" pivotX="0" pivotY="0"/>
+	<SubTexture name="ground0000" x="960" y="49" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="jumpButton0000" x="605" y="1154" width="170" height="170" pivotX="0" pivotY="0"/>
+	<SubTexture name="mario_die0000" x="241" y="1381" width="48" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="mario_jump0000" x="918" y="1386" width="48" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="mario_stand0000" x="960" y="294" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="mario_walk10000" x="966" y="1386" width="48" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="mario_walk20000" x="870" y="1386" width="48" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="menuBg0000" x="0" y="0" width="960" height="641" pivotX="0" pivotY="0"/>
+	<SubTexture name="mount_10000" x="757" y="896" width="256" height="129" pivotX="0" pivotY="0"/>
+	<SubTexture name="mount_20000" x="757" y="1025" width="255" height="129" pivotX="0" pivotY="0"/>
+	<SubTexture name="mount_30000" x="870" y="1154" width="127" height="97" pivotX="0" pivotY="0"/>
+	<SubTexture name="mount_40000" x="605" y="1324" width="161" height="129" pivotX="0" pivotY="0"/>
+	<SubTexture name="smallButton0000" x="870" y="1251" width="103" height="53" pivotX="1" pivotY="1"/>
+	<SubTexture name="star10000" x="960" y="490" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="star20000" x="960" y="441" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="star30000" x="960" y="343" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="star40000" x="960" y="392" width="49" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="star50000" x="960" y="735" width="49" height="49" pivotX="0" pivotY="0"/>
+</TextureAtlas>
